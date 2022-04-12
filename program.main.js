@@ -1,4 +1,4 @@
 const user = (id) =>{
-    console.log(id)
+    console.log({id:id,name:'test'})
 }
 user(123)
